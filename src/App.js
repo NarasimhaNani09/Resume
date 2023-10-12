@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h1>Narasimha Resume </h1>
+    <h1>Narasimha Resume Sample </h1>
     </>
   );
 }
