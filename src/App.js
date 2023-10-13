@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h1>Hello World Testing</h1>
+    <h1>Sri Vasavi Engineering College</h1>
     </>
   );
 }
